@@ -1,0 +1,22 @@
+.cover__fon {
+    background-image: url(../../../image/optimized-image/cover-min.jpg);
+    
+    height: 740px;
+    min-width: 1184px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    object-fit: cover;
+    object-position: top;
+    
+    
+    
+   
+    
+    
+    
+}
+
+.cover__fon:hover {
+    opacity: .3;
+}
+
