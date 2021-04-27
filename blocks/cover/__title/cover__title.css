@@ -1,6 +1,6 @@
 .cover__title {
     margin: 0 auto;
-    
+    text-rendering: optimizeLegibility;
     font-size: 72px;
     line-height: 76px;
     font-weight: 900;
