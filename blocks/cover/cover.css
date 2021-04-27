@@ -1,4 +1,9 @@
 .cover {
-    max-width: 92.5%;
+    min-width: 92.5%;
+    max-width: 100%;
+    min-height: 740px;
     margin: auto;
+    position: relative;
+    z-index: 0;
+    
 }

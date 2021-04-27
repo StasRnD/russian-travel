@@ -4,10 +4,15 @@
     line-height: 28px;
     margin-bottom: 5px;
     color: inherit;
+    
 }
 
 .header__lang-link:first-child {
     border-bottom: 2px solid white;
+}
+
+.header__lang-link:hover {
+    cursor: url(../../../image/Imported\ Layers\ Copy\ 4.svg), pointer;
 }
 
 

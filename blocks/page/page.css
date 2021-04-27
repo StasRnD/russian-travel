@@ -9,6 +9,8 @@
     color:white;
 }
 
+
+
 @media screen and (max-width: 425px) {
     .page {
         padding: 16px 0 24px;
