@@ -2,9 +2,11 @@
     color: inherit;
     font-size: 18px;
     line-height: 22px;
-    cursor: url(../../image/Imported\ Layers\ Copy\ 4.svg), pointer;
+    
 }
 
 .place__link:hover {
     cursor: url(../../../image/Imported\ Layers\ Copy\ 4.svg), pointer;
 }
+
+

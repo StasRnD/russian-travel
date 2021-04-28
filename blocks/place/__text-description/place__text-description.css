@@ -4,3 +4,10 @@
     line-height: 29.34px;
     
 }
+
+@media screen and  (max-width: 1023px){
+    .place__text-description {
+        font-size: 16px;
+        line-height: 26px;
+    }
+}

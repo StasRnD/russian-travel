@@ -1,7 +1,16 @@
 .place__text {
     display: flex;
     flex-direction: column;
-    row-gap: 26px;
+    row-gap: 27px;
     flex-wrap: wrap;
+    
+}
+
+@media screen and (max-width:767px) {
+    .place__text {
+        width: calc(100% - 32px);
+        margin: 0 auto;
+        row-gap: 25px;
+    }
     
 }

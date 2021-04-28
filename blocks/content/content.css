@@ -1,17 +1,19 @@
 .content {
-    display: grid;
+    display: flex;
+    flex-direction: column;
     row-gap: 92px;
+    
 }
 
 
-@media screen and (max-width: 425px) {
+ @media screen and (max-width: 768px) {
     .content {
         row-gap: 65px; 
     }
 }
 
-@media screen and (min-width: 425px) and (max-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
     .content {
         row-gap: 89px; 
     }
-}
+} 
