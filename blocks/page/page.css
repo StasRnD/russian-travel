@@ -9,10 +9,6 @@
     color:white;
 }
 
-.header__lang-link_active:active {
-    border-bottom: 2px solid white;
-}
-
 @media screen and (max-width: 767px) {
     .page {
         padding: 16px 0 24px;

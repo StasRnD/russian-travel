@@ -3,7 +3,6 @@
     grid-template-columns: 46.7% calc((100% - 46.7%) - 40px);
     column-gap: 40px;
     row-gap: 48px;
-    
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
@@ -26,8 +25,5 @@
         display: flex;
         flex-direction: column;
         row-gap: 32px;
-        
     }
-   
-    
 }
