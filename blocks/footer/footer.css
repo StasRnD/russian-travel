@@ -1,14 +1,9 @@
 .footer {
+    max-width: 1184px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    margin: 0 auto;
-    max-width: 92.5%;
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-    .footer {
-        width: calc(100% - 48px);
-    }
+    
     
 }
 
@@ -21,3 +16,12 @@
         margin: 0;
     }
 }
+
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .footer {
+        max-width: calc(100% - 48px);
+    }
+    
+}
+
